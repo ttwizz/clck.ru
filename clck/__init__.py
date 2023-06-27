@@ -1,0 +1,1 @@
+from .clck import ru
